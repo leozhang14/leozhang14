@@ -1,1 +1,1 @@
-- 👋 #Hi, I’m Leo Zhang, a first-year Computer Science student at the University of Waterloo.
+- 👋 #Hi#, I’m Leo Zhang, a first-year Computer Science student at the University of Waterloo.
