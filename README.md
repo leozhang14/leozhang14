@@ -1,2 +1,2 @@
-- 👋  Hey there, I’m Leo Zhang, a first-year Computer Science student at the University of Waterloo.
+- 👋  Hey there, I’m Leo Zhang, a second-year Computer Science student at the University of Waterloo.
 - Feel free to reach out at leo.zhang2@uwaterloo.ca!
